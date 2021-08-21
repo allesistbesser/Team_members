@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header1{
+    font-family: 'Times New Roman', Times, serif;
+}
+ body{
+     margin-top: 2rem;
+ }
+
+.swbutton {
+    transform: scale(1.7);
+    width: 4rem;
+}
