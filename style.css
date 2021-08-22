@@ -13,5 +13,14 @@
 
 .swbutton {
     transform: scale(1.7);
-    width: 4rem;
+    width: 2rem;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.swbutton:hover{
+    background-color: rgb(109, 143, 236);
+    border-radius: 15px;
 }
